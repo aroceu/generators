@@ -1,5 +1,13 @@
 # aroceu's prompt generators
- Prompt generators for creative usage, including generic fanwork prompts, fandom specific prompts, lyrical prompts, and other unique generators.
+Prompt generators for creative usage, including generic fanwork prompts, fandom specific prompts, lyrical prompts, and other unique generators. Written in PHP, HTML, and CSS; light Javascript for stylistic elements only.
+
+## a little background
+
+When I was younger I stumbled across a lot of writing generators&mdash;I'm a writer, after all&mdash;but a lot of them never really did anything that *I* personally found useful for the way I like to get ideas and write. Mostly because I wrote fanfiction. Nevertheless, the first prompt generator that did look usable to me (though I don't believe I ever used it) was a Super Junior prompt generator, that picked a random combination of Super Junior members as a ship and a random prompt or two. I saw it and thought to myself, yeah, that's the kind of prompt generator I like.
+
+But I'm a stylistic nerd so I won't settle for anything that I can't design from ground up myself. When I got into Haikyuu, which has even more characters than Super Junior has members, after a couple of years that inspiration struck me again, and I decided to learn how to make one. By this point I was already familiar with PHP, and as I continued to work on the prompt generators, I've gotten better and more creative with it, though I don't know how it looks to people with more experience.
+
+Regardless, I use my PHP and webdesign skills for good&mdash;for making generators about (mostly) fictional characters kissing the hell out of each other. I added lyric generators in 2020 and would like to make more, as I'm a big fan of music in general. I also made the [Sexy Times With Wangxian tag generator](https://aroceu.com/generators/sexytimes/), which is a highlight. My personal favorite is the [to Lovers generator](http://aroceu.com/generators/lovers/).
 
 # changelog
 
