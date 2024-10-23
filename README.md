@@ -3,7 +3,8 @@
 
 # changelog
 
-**23 October 2024** Finally putting the code for this on Github! Maybe archiving my changes is important, actually. 
+### 23 October 2024
+Finally putting the code for this on Github! Maybe archiving my changes is important, actually. 
 
 # to-do
 
