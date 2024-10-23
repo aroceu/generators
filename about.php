@@ -1,5 +1,7 @@
 <?php include('header.php');?>
 
+<!-- just seeing if this gets pushed from github to cpanel -->
+
 <div id="container">
     <h1>aroceu's prompt generators: info</h1>
 
