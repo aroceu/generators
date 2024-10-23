@@ -1,0 +1,399 @@
+	body{
+		background: #fff;
+		margin: 0;
+	}
+
+	body.ex{
+		background: url('img/wdiag.png') #fff;
+			font: normal 110% 'Source Sans Pro', sans-serif;
+	}
+
+	#nav{
+		position: fixed;
+		border-bottom: 1px solid #000;
+		margin-bottom: 100px;
+		width: 100%;
+		padding-bottom: 0.5em;
+	}
+
+section{
+	min-height: 100vh;
+Padding-bottom:3vh;
+}
+
+section.top{
+		height: 80vh;
+	padding-top: 20vh;
+}
+
+section.black{
+	background: url('img/bdiag.png') #000;
+}
+
+section.white{
+	background: url('img/wdiag.png') #fff;
+}
+
+#header{
+	color: #000;
+	font: normal 380% 'Megrim';
+	text-transform: uppercase;
+	text-align: center;
+	width: 10em;
+	margin: 0 auto;
+	padding: 0.5em;
+	border: 1px solid #fff;
+}
+
+.foot{
+	margin-top: 15vh;
+	text-align: center;
+	font: normal 110% 'Source Sans Pro';
+	letter-spacing: 1px;
+}
+
+.whitebg{
+	background: url('img/wdiag.png') #fff;
+	padding: 0.5em;
+	color: #000;
+}
+
+.blackbg{
+	background: url('img/bdiag.png') #000;
+	padding: 0.5em;
+}
+
+h1{
+	margin: 0;
+	text-align: center;
+	padding: 13vh 0 1.3em;
+	font: normal 250% 'Megrim';
+	text-transform: uppercase;
+	letter-spacing: 25px;
+	font-weight: bold;
+}
+
+.black{
+	color: #fff;
+}
+
+.black a{
+	color: #fff;
+}
+
+a:hover, a:focus{
+	text-decoration: none
+}
+
+ul{
+	padding-start: 0!important;
+	padding-inline-start: 0!important;
+	-webkit-padding-start: 0!important;
+	-moz-padding-start: 0!important;
+	-o-padding-start: 0!important;
+}
+
+#nav ul{
+	list-style-type: none;
+	text-align: center!important;;
+		margin: 0!important;;
+	padding: 0.2em 0!important;;
+}
+
+#nav ul li{
+	display: inline-block;
+	width: 15em;
+
+}
+
+.ex #nav ul li{
+    text-align: center;
+    margin: 0!important;
+}
+
+#nav ul li a{
+	color: #fff;
+	text-decoration: none;
+	font: normal 120% 'Source Sans Pro';
+	text-transform: uppercase;
+	letter-spacing: 4px;
+	border-bottom: none!important;
+}
+
+#nav ul li a:hover, #nav ul li a:focus{
+	color: #ccc;
+	border-bottom: none!important;
+}
+
+h2{
+	text-transform: lowercase;
+	font: normal 170% 'Source Sans Pro';
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	letter-spacing: 5px;
+}
+
+section ul, .ex ul{
+	list-style-type: none;
+	text-align: center;
+width: 90%;
+    margin: 3em auto;
+}
+
+section ul li, .ex ul li a{
+	display: inline-block;
+	text-align: center;
+}
+
+section ul li a, .ex ul li a{
+	display: block;
+	text-decoration: none;
+	border-position: outside;
+	padding: 0.5em;
+	font: normal 130% 'Major Mono Display';
+	text-transform: lowercase;
+	margin: 0 auto 0;
+	letter-spacing: -2px;
+	text-align: center;
+}
+
+.white ul li a{
+	color: #000;
+	border: 1px solid #000;
+	width: 14em; 
+}
+
+.white ul li{
+	width: 33%;
+}
+
+.black ul li a{
+	color: #fff;
+	border: 1px solid #fff;
+}
+
+.black .three li{
+    width: 33%;
+}
+
+.black ul li {
+	width: 45%;
+	margin: 1em 0 2em;
+}
+
+section ul li a:hover, section ul li a:focus{
+	font-family: 'Major Mono Display';
+	text-transform: uppercase;
+	outline-offset: -2px;
+}
+
+.white ul li a:hover, .white ul li a:focus{
+	color: #fff;
+	background: url('img/bdiag.png') #000;
+	outline: 1px #fff solid;
+}
+
+.black ul li a:hover, .black ul li a:focus{
+	color: #000;
+	background: url('img/wdiag.png') #fff;
+	outline: 1px #000 solid;
+}
+
+.ex ul, .ex ul li{
+	text-align: left;
+	width: 100%;
+	margin: 0 0 1em;
+}
+
+.ex ul li a{
+	display: inline;
+	border: none;
+	margin: 0!important;
+	padding: 0!important;
+	letter-spacing: 0;
+	font: normal 100% 'Source Sans Pro';
+	text-transform: none;
+	border-bottom: 1px solid #000;
+}
+
+.ex ul li a:hover, .ex ul li a:focus{
+	color: #000;
+	background: none;
+	outline: none;
+	border-bottom: 3px double #000;
+}
+
+big{
+	font-weight: bold;
+}
+
+ul ul{
+	margin-left: 2em!important;
+}
+
+#exintro{
+    margin: 0 auto;
+    padding-bottom: 2em;
+    color: #fff;
+    background: url(img/bdiag.png);
+    padding: 5em 17vw 2em;
+}
+
+#exdefs{
+    padding: 3em 17vw;
+}
+
+.ex #bottom{
+    background: url(img/bdiag.png);
+    color: #fff;
+    padding: 3em 17vw;
+}
+
+#bottom h1{
+    font-size: 180%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    letter-spacing: 5px;
+}
+
+#bottom a{
+    color: #fff;
+}
+
+/* tablets and landscape */
+
+@media only screen and (max-width: 960px) and (min-width: 431px) {
+
+html {
+-webkit-text-size-adjust: none;
+}
+
+.white ul li{
+    width: auto;
+}
+
+.white ul li a{
+    width: 25vw;
+}
+
+section ul li a{
+    margin: 0 1vh 0;
+    font-size: 105%;
+}
+
+h1{
+    padding: 10vh 0 5vh;
+}
+
+}
+
+@media only screen and (max-width: 430px) and (min-width: 0px) {
+
+html {
+-webkit-text-size-adjust: none;
+font-size: 90%;
+}
+
+#nav{
+    position: static;
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.uarr{
+    display: none;
+}
+
+#nav ul li{
+    width: 30%;
+}
+
+ul li.lovers {
+    width: auto!important;
+    margin: auto!important;
+}
+
+
+#header{
+    width: 70%;
+    padding: 0.3em;
+    font-size: 280%;
+}
+
+section.top{
+        height: 80vh;
+    padding-top: 10vh;
+}
+
+.foot{
+    margin-top: 25vh;
+}
+
+h1{
+    font-weight: normal;
+    font-size: 220%;
+}
+
+section ul{
+    margin-bottom: 0!important;
+}
+
+section ul li{
+    display: block;
+    padding-bottom: 3vh;
+    margin-bottom: 0;
+}
+
+section{
+    height: auto;
+    padding-bottom: 5vh;
+}
+
+h1{
+    padding: 8vh 0 4vh 2vh;
+}
+
+.white ul li, .black ul li{
+    width: auto;
+    margin: 0;
+}
+
+.black .three li{
+    width: 100%;
+}
+
+.white ul li a, .black ul li a{
+    width: 70%;
+    margin: 0 auto;
+}
+
+h2{
+    margin-top: 2.5vh;
+}
+
+h2:first-of-type{
+    margin-top: 0;
+}
+
+#exintro{
+    padding: 0.5em 5vw 1.5em;
+}
+
+#exdefs{
+    padding: 1.5em 5vw;
+}
+
+.ex ul, .ex ul li{
+    margin: 0 0 1em;
+}
+
+ul ul{
+    margin-left: 5%!important;
+    width: 95%!important;
+}
+
+
+}

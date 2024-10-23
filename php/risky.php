@@ -1,0 +1,35 @@
+<?php include('sfw.php') ?>
+
+<?php
+$risky = $sfw;
+array_push($risky, /**/"Priest AU",
+/**/"Prison AU",
+/**nsfw overlap**/"Omegaverse",
+/**/"Dominance Hierarchy AU",
+/**nsfw overlap**/"BDSM",
+/**/"Mpreg",
+/**nsfw overlap**/"Sex Slaves",
+/**/"Genderfuck/Sexswap",
+/**nsfw overlap**/"Pornstar AU",
+/**/"Incest AU",
+/**/"Rape Recovery",
+/**nsfw overlap**/"Harem AU",
+/**/"Hanahaki Disease",
+/**nsfw overlap**/"Camgirl AU",
+/**/ "Disabilityfic",
+/**/ "Terminal Illness",
+/**/ "War AU",
+/**/ "Possessive",
+/**/"Fraternity/Sorority",
+/**/"Bikers/Gangs",
+/**/"Mafia/Yakuza/Conmen",
+/**/"PTSD/Trauma",
+/**/ "Priest AU",
+"Prison AU",
+"Stripper AU",
+"Serial Killers",
+"Hookerfic",
+"Rentboy/escort",
+"Battle Royale/Hunger Games AU",
+"Fuck or Die");
+?>

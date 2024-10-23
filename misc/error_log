@@ -1,0 +1,34 @@
+[28-Dec-2022 21:17:44 UTC] PHP Notice:  Undefined variable: main in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 217
+[28-Dec-2022 21:17:44 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 217
+[28-Dec-2022 21:17:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 218
+[28-Dec-2022 21:17:44 UTC] PHP Notice:  Undefined variable: main in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 218
+[28-Dec-2022 21:17:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 218
+[28-Dec-2022 21:17:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 219
+[28-Dec-2022 21:17:44 UTC] PHP Notice:  Undefined variable: main in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 219
+[28-Dec-2022 21:17:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 219
+[28-Dec-2022 21:17:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 226
+[28-Dec-2022 21:17:44 UTC] PHP Notice:  Undefined variable: main in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 226
+[28-Dec-2022 21:17:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 226
+[28-Dec-2022 21:17:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 228
+[28-Dec-2022 21:17:44 UTC] PHP Notice:  Undefined variable: main in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 228
+[28-Dec-2022 21:17:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 228
+[28-Dec-2022 21:17:46 UTC] PHP Notice:  Undefined variable: main in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 217
+[28-Dec-2022 21:17:46 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 217
+[28-Dec-2022 21:17:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 218
+[28-Dec-2022 21:17:46 UTC] PHP Notice:  Undefined variable: main in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 218
+[28-Dec-2022 21:17:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 218
+[28-Dec-2022 21:17:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 219
+[28-Dec-2022 21:17:46 UTC] PHP Notice:  Undefined variable: main in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 219
+[28-Dec-2022 21:17:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 219
+[28-Dec-2022 21:17:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 226
+[28-Dec-2022 21:17:46 UTC] PHP Notice:  Undefined variable: main in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 226
+[28-Dec-2022 21:17:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 226
+[28-Dec-2022 21:17:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 228
+[28-Dec-2022 21:17:46 UTC] PHP Notice:  Undefined variable: main in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 228
+[28-Dec-2022 21:17:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 228
+[28-Dec-2022 21:19:56 UTC] PHP Notice:  Undefined variable: tsnprompts in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 222
+[28-Dec-2022 21:19:56 UTC] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/oceans/dir/aroceu/generators/php/func.php on line 5
+[28-Dec-2022 21:19:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/oceans/dir/aroceu/generators/php/func.php on line 9
+[28-Dec-2022 21:19:58 UTC] PHP Notice:  Undefined variable: tsnprompts in /home/oceans/dir/aroceu/generators/misc/bbs.php on line 222
+[28-Dec-2022 21:19:58 UTC] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/oceans/dir/aroceu/generators/php/func.php on line 5
+[28-Dec-2022 21:19:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/oceans/dir/aroceu/generators/php/func.php on line 9

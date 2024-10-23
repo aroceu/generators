@@ -1,0 +1,155 @@
+body{
+background: url('img/bg.png') #000;
+color: #aaa;
+font: normal 100%/160% 'Source Code Pro', sans-serif;
+        margin: 0;
+        padding: 0;
+        height: 100%;
+
+            }
+            
+            #container{
+                padding: 2em;
+                margin: 6% auto;
+                width: 40em;
+                clear: both;
+                background: #000;
+                border: 1px solid #aaa;
+
+
+            }
+            
+            #content{
+    margin: 0 auto 4em;
+    padding: 1em 0 0;
+    clear: both;
+            }
+            
+            h1{
+                color: #fff;
+                font: normal 260% 'Major Mono Display', sans-serif;
+                margin: 0;
+                text-align: center;
+                letter-spacing: -3px;
+            }
+            
+            #prompts{
+                font: normal 200% 'Source Code Pro', serif;
+                color: #fff;
+                text-align: center;
+                margin: 2em auto;
+                text-transform: uppercase;
+            }
+            
+input[type="button"]{
+    font: normal 130% 'Major Mono Display', sans-serif;
+    color: #fff;
+    text-transform: lowercase;
+    text-align: center;
+    background: url('img/bg.png') #000;
+    letter-spacing: -1px;
+    border: #aaa 1px solid;
+    margin: 0 auto 3em;
+    display: block;
+    padding: 1em;
+}
+
+input[type=button]:hover, input[type=button]:focus{
+cursor: pointer;
+text-transform: uppercase;
+}
+
+#footer{
+    font: normal 95% 'Source Code Pro';
+    text-align: center;
+    clear: both;
+    margin: 0 auto;
+    color: #fff;
+}
+
+a:link, a:visited{
+    color: #fff;
+}
+
+a:hover, a:focus{
+    text-decoration: none;
+}
+
+h2, h3{
+    margin: 0;
+    font-size: 80%;
+    display: inline;
+}
+
+h3, h4{
+    font-weight: normal;
+}
+
+h4{
+    font-size: 70%;
+    text-transform: lowercase;
+    margin: 0;
+    display: inline;
+    letter-spacing: -1px;
+}
+
+small{
+    letter-spacing: -1px;
+}
+
+/* tablets and landscape */
+
+@media only screen and (max-width: 960px) and (min-width: 431px) {
+
+html {
+-webkit-text-size-adjust: none;
+font-size: 95%;
+}
+
+}
+
+/* smartphones */
+
+@media only screen and (max-width: 430px) and (min-width: 0px) {
+
+html {
+-webkit-text-size-adjust: none;
+}
+
+body{
+    overflow: auto;
+    padding-bottom: 15%;
+}
+
+#container{
+    width: auto;
+    border-top: 1px solid #aaa;
+    border-bottom: 1px solid #aaa;
+    border-left: none;
+    border-right: none;
+    margin: 10% auto;
+}
+
+#footer{
+        font: normal 100% 'Source Code Pro', sans-serif;
+    text-align: center;
+    clear: both;
+    position: static;
+    margin: 0 auto;
+    width: 92%;
+    padding: 4%;
+}
+
+h1{
+    font-size: 220%;
+}
+
+#content{
+    font-size: 90%;
+}
+
+h2, h3{
+    font-size: 75%;
+}
+
+}
