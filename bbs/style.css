@@ -3,6 +3,8 @@ body{
             padding: 0;
              background-color: #013A6B;
   background-image: -webkit-linear-gradient(45deg, #013A6B 50%, #a32339 50%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   min-height: 100%;
   color: #333;
         }

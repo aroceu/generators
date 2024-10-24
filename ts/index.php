@@ -15,8 +15,13 @@
 
     body{
         background: #1A1E44;
-        background-image: url('taylor.jpg');
-        background-size: cover;
+        background: url('taylor.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no repeat;
         text-transform: lowercase;
     }
     

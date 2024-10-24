@@ -17,8 +17,11 @@
 
     body{
         background: #E882BA;
-        background-image: linear-gradient(#E882BA, #68C7F1);
+        background-image: linear-gradient(to bottom left, #E882BA 0%, #68C7F1 100%);
+        background-repeat: no-repeat;
+  background-attachment: fixed;
         text-transform: lowercase;
+        height: 100%;
     }
     
     #container{

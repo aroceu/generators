@@ -14,8 +14,13 @@
         <style type="text/css">
             
             body{
-                background: url('bg.png') no-repeat;
-                background-size: cover;
+                background: url('bg.png') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no repeat;
                 font: normal 120%/160% 'Crimson Text';
                 color: #ffffff;
             }
