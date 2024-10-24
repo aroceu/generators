@@ -101,6 +101,13 @@ a:hover, a:active{
 html {
 -webkit-text-size-adjust: none;
 font-size: 90%;
+background: url('taylor.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
 }
 
 
