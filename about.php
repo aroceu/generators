@@ -13,7 +13,9 @@
 
 <p>Credit is not required, but linking back is appreciated. </p>
 
-      <p>If you need to contact me for any reason, you can reach me via <a href="https://aroceu.com">any method of your choosing</a>.</p>
+      <p>If you need to contact me for any reason, you can reach me via <a href="https://aroceu.com">any method of your choosing</a>.</p> 
+
+    <p><a href="https://github.com/aroceu/generators">View this project on Github</a>.</p>
 
       <p class="home"><a href="/generators">&laquo; generator index</a></p>
     </div>
