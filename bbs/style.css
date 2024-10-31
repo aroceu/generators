@@ -212,5 +212,9 @@ ul li.ohmnanon {
   width: 100%;
 }
 
+ul.nav li.red a, ul.nav li.blue a{
+    width: auto;
+}
+
 
 }
