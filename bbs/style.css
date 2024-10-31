@@ -153,10 +153,12 @@ ul.nav li.red a, ul.nav li.blue a{
 
 ul.nav li.red a:link, ul.nav li.red a:visited{
     background: #013A6B;
+    border: 2px solid #013A6B;
 }
 
 ul.nav li.blue a:link, ul.nav li.blue a:visited{
     background: #a32339;
+    border: 2px solid #a32339;
 }
 
 ul.nav li.blue a:hover, ul.nav li.blue a:focus{
@@ -199,6 +201,16 @@ font-size: 90%;
     width: 100%;
 }
 
+ul.nav li.red, ul.nav li.blue {
+  display: block;
+  width: 100%;
+  margin: 15px 0;
+}
+
+ul li.ohmnanon {
+  display: block;
+  width: 100%;
+}
 
 
 }
