@@ -112,7 +112,7 @@ font-size: 90%;
 
 #container {
     width: 100%;
-    margin: 5vh auto 0;
+    margin: 5vh auto;
     
 }
 </style>

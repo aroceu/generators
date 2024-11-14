@@ -105,7 +105,7 @@ background: url('bg.png') no-repeat center center fixed;
 
 #container {
     width: 100%;
-    margin: 5vh auto 0;
+    margin: 5vh auto;
     
 }
 
