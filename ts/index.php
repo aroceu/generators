@@ -142,7 +142,7 @@ print($data);
 </div>
 
 <div id="blurb">
-    <p>This contains lines from Taylor's <i>Self-Titled</i>, <i>Fearless (Taylor's Version)</i>, <i>Speak Now (Taylor's Version)</i>, <i>Red (Taylor's Version)</i>, <i>1989 (Taylor's Version)</i>, <i>reputation</i>, <i>Lover</i>, <i>Folklore</i>, <i>Evermore</i>, and <i>Midnights</i>.
+    <p>This contains lines from Taylor's <i>Self-Titled</i>, <i>Fearless (Taylor's Version)</i>, <i>Speak Now (Taylor's Version)</i>, <i>Red (Taylor's Version)</i>, <i>1989 (Taylor's Version)</i>, <i>reputation</i>, <i>Lover</i>, <i>Folklore</i>, <i>Evermore</i>, <i>Midnights</i>, and <i>Tortured Poets Department</i>.
     <br />Feel free to use your result as a fic title, premise, or anything else.
     <br />If you roll one that has a typo, punctuation issue, or is put awkwardly, feel free to contact me.
     <br />Credit for using this is not required, but always appreciated.</p>
