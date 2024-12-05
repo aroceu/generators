@@ -157,7 +157,7 @@ $rand_keys = array_rand($input, 2);
 echo $input[$rand_keys[0]] . " &/ ";
 echo $input[$rand_keys[1]] . "";
 ?>
-<br />
+<br /><br />
 <?php print_r(array_random($fandom)); ?>
 </div>
 
