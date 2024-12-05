@@ -1,3 +1,8 @@
+<!doctype html>
+
+<?php include('../php/func.php')?>
+<?php include('../php/fandom.php')?>
+
 <html lang="en">
     
     <head>
@@ -152,6 +157,8 @@ $rand_keys = array_rand($input, 2);
 echo $input[$rand_keys[0]] . " &/ ";
 echo $input[$rand_keys[1]] . "";
 ?>
+<hr />
+<?php print_r(array_random($fandom)); ?>
 </div>
 
 <p align="center"><a class="refresh" onclick="location.reload();">Generate another?</a></p>
