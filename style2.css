@@ -11,7 +11,7 @@ body{
 	        padding-top: 4.5em;
     margin: 0 auto;
     text-align: center;
-    font: normal 4em 'Cookie';
+    font: normal 4em 'Cookie', cursive;
     color: #5C98B2;
     text-shadow: #c8e7f1 2px 2px 0px;;
 }
@@ -91,7 +91,7 @@ ul#menu-primary ul {
   	color: #5C98B2;
   	text-decoration: none;
   	text-transform: lowercase;
-  	    font: normal 2.4em 'Cookie', sans-serif;
+  	    font: normal 2.4em 'Cookie', cursive;
   }
 
   #sub ul li a:hover, #sub ul li a:focus{
@@ -117,7 +117,7 @@ ul#menu-primary ul {
 
   h1{
     color: #5C98B2;
-    font: normal 3em 'Cookie';
+    font: normal 3em 'Cookie', cursive;
     text-align: center;
   }
 
@@ -128,7 +128,7 @@ ul#menu-primary ul {
   .home a:link, .home a:visited{
     text-align: center;
     display: block;
-    font: normal 2em 'Cookie';
+    font: normal 2em 'Cookie', cursive;
     color: #5C98B2;
     text-decoration: none;
   }
