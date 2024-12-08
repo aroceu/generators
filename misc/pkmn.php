@@ -128,7 +128,7 @@ h1{
             
             <div id="container">
                 
-                <h1>Pok&eacute;mon Ship Generator</h1>
+                <h1>Pok&eacute;mon Prompt Generator</h1>
 
                 <div id="prompts">
 

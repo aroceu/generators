@@ -151,7 +151,7 @@ print($data);
 </div>
 
 <div id="footer">
-    &copy; <?php echo date("Y"); ?> &bull; <a href="/generators/">Generators</a> &bull; <a href="/generators/ts">Taylor Swift</a> &bull; <a href="/generators/crj">Carly Rae Jepsen</a> &bull; <a href="/generators#lyrics">Others</a> &bull; <a href="https://aroceu.com">Contact</a>
+    &copy; <?php echo date("Y"); ?> &bull; <a href="/generators/">Generators</a> &bull; <a href="/generators/ts">Taylor Swift</a> &bull; <a href="/generators/crj">Carly Rae Jepsen</a> &bull; <a href="https://aroceu.com">Contact</a>
     </div>
 </div>
         

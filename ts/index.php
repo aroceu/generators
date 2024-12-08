@@ -149,7 +149,7 @@ print($data);
 </div>
 
 <div id="footer">
-    &copy; <?php echo date("Y"); ?> | <a href="/generators/">Generators</a> | <a href="/generators/crj">Carly Rae Jepsen</a> | <a href="/generators/mitski">Mitski</a> | <a href="/generators#lyrics">Others</a> | <a href="https://aroceu.com">Contact</a>
+    &copy; <?php echo date("Y"); ?> | <a href="/generators/">Generators</a> | <a href="/generators/crj">Carly Rae Jepsen</a> | <a href="/generators/mitski">Mitski</a> | <a href="https://aroceu.com">Contact</a>
     </div>
 </div>
 

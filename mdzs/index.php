@@ -1,4 +1,4 @@
-<html lang="en">
+<html lang="en"><!-- bunny -->
     <head>
         
     <meta name="viewport" content="initial-scale=1.0">
@@ -189,7 +189,7 @@ li.mobile{
 
        <div id="container">     
        
-       <p align="center"><img src="bunny.png" class="bunny"></p>
+       <p align="center"><img src="bunny.png" class="bunny" alt=""></p>
             
             <h1>Mo Dao Zu Shi Prompt Generators</h1>
             
