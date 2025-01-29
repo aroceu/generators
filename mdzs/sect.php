@@ -71,6 +71,6 @@ sect.
 <p align="center"><input type="button" onclick="location.reload();" value="Generate another?" /></p>
 
 
-                <p>This generator shuffles around all the <i>main characters</i> being raised by any of the following sects: Yunmeng Jiang, Lanling Jin, Gusu Lan, Qinghe Nie, Qishan Wen, Yao, and Ouyang sects.</p>
+                <p>This generator shuffles around all the <a href="main"><i>main characters</i></a> being raised by any of the following sects: Yunmeng Jiang, Lanling Jin, Gusu Lan, Qinghe Nie, Qishan Wen, Yao, and Ouyang sects.</p>
                 
 <?php include('footer.php');?>

@@ -57,6 +57,6 @@ else{
 <p align="center"><input type="button" onclick="location.reload();" value="Generate another?" /></p>
 
 
-                <p>This generator has many popular ships along with multiple combined prompts at a time, all intended to be present in a single fanwork. However, as this is not an official challenge and is only a generator to help give you ideas, feel free to disregard any number of prompts for your convenience.</p>
+                <p>This generator has many popular ships (threesomes included) along with multiple combined prompts at a time, all intended to be present in a single fanwork. However, as this is not an official challenge and is only a generator to help give you ideas, feel free to disregard any number of prompts for your convenience.</p>
                 
 <?php include('footer.php');?>

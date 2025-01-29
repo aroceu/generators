@@ -43,6 +43,6 @@ body{
 <p align="center"><input type="button" onclick="location.reload();" value="Generate another?" /></p>
 
 
-                <p>This generator has many popular ships along with a single prompt.</p>
+                <p>This generator has many popular ships along with a single prompt. Threesomes are included.</p>
                 
 <?php include('footer.php');?>

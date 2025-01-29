@@ -47,6 +47,6 @@ echo $all[$rand_keys[1]] . "";
 <p align="center"><input type="button" onclick="location.reload();" value="Generate another?" /></p>
 
 
-                <p>This generator has all characters from MDZS, as well as some animals, CQL-only characters, and inanimate objects. All prompts are also featured.</p>
+                <p>This generator has all characters from MDZS, as well as some animals, CQL-only characters, and inanimate objects with names. All prompts are also featured.</p>
                 
 <?php include('footer.php');?>
