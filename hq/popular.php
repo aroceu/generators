@@ -138,5 +138,8 @@ h2{
                 <p>This generator has only popular pairings from Haikyuu. This includes often pair-the-spare pairings (e.g. Ukai/Takeda, Kiyoko/Yachi), and ships with 
                 large enough followings (e.g. Oikawa/Kageyama, Oikawa/Sugawara.)
                 There is a general index of two pairings per character at maximum, with the exception of Oikawa. Feel free to refresh to see all potential pairings.</p>
+
+                                <p>A list of all the ships here (as well as on others) can be viewed <a href="https://github.com/aroceu/generators/blob/main/php/hq.php">here</a>.</p>
+
                 
 <?php include('footer.php');?>

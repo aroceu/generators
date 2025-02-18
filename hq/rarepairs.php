@@ -137,6 +137,8 @@ h2{
 
                 <p>This generator has requested rarepairings from Haikyuu, usually between cross-team members. It also has sibling ships, and pairings with extremely minor characters.</p>
                 
-                <p>If you would like to request a rarepairing to be added, please feel free to <a href="https://aroceu.com">contact me</a>.</p>
+                <p>If you would like to request a rarepairing to be added, please feel free to <a href="https://aroceu.com">contact me</a>. Alternatively, you can submit an issue or pull request through <a href="">this project's Github repository</a>.</p>
+
+                <p>A list of all the ships here (as well as on others) can be viewed <a href="https://github.com/aroceu/generators/blob/main/php/hq.php">here</a>.</p>
                 
 <?php include('footer.php');?>
