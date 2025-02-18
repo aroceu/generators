@@ -20,7 +20,11 @@
 		</ul>
 		
 		<p>&copy; 2017-<?php echo date("Y"); ?></p>
+		<p>↑ ↑ ↓ ↓ ← → ← → B A</p>
 	</div>
+
+	<script type="text/javascript" src="https://kingdra.net/x/konami.js"></script>
+
 
 </body>
 
