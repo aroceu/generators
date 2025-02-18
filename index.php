@@ -20,8 +20,7 @@
 		</ul>
 		
 		<p>&copy; 2017-<?php echo date("Y"); ?></p>
-		<p style="letter-spacing: 15px;
-  text-shadow: 2px 2px 0 #ffe796;
+		<p style="letter-spacing: 15px;color: #ffe796;
   margin-top: 30px;">↑ ↑ ↓ ↓ ← → ← → B A</p>
 	</div>
 
