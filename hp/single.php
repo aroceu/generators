@@ -3,8 +3,8 @@
     <head>
         
         <title>Harry Potter Single Prompt Generator</title>
-<link rel="shortcut icon" type="image/x-icon" href="/generators/favico.png" />
-            <link rel="stylesheet" href="/generators/hp/style.css" type="text/css" media="screen">
+        <link rel="shortcut icon" type="image/x-icon" href="../favico.png" />
+        <link rel="stylesheet" href="style.css" type="text/css" media="screen">
         
         </head>
         
@@ -31,7 +31,7 @@ print_r(array_random($prompts));
 
 </div>
 
-<p>Generates single prompts, much like the <a href="/generators/prompts">generic ones</a>. Harry Potter-specific tropes are included, and comprise of approximately half of the possible prompts.</p>
+<p>Generates single prompts, much like the <a href="../prompts">generic ones</a>. Harry Potter-specific tropes are included, and comprise of approximately half of the possible prompts.</p>
                 </p>
 
     <?php include ('footer.php') ?>

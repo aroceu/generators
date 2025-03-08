@@ -1,5 +1,6 @@
 <?php include('../php/func.php')?>
 <?php include('../php/tsn.php')?>
+<!DOCTYPE html>
 <html lang="en">
     
     <head>
@@ -7,8 +8,8 @@
         <title>The Social Network Kink Generator</title>
         <meta name="viewport" content="initial-scale=1.0">
 
-<link rel="shortcut icon" type="image/x-icon" href="/generators/favico.png" />
-<style type="text/css">
+        <link rel="shortcut icon" type="image/x-icon" href="../favico.png" />
+        <style type="text/css">
         body{
             margin: 0;
             padding: 0;
@@ -202,7 +203,7 @@ font-size: 90%;
                 <div id="title"><a href="">TSN</a></div>
                 
                 <ul id="nav">
-                    <li><a href="/generators">Generators</a></li>
+                    <li><a href="../">Generators</a></li>
                 </ul></div>
             
             <div id="container">
@@ -237,7 +238,7 @@ echo $tsnchars[$rand_keys[1]] . "";
     </p></div>
 
     <div id="footer">
-    &copy; <?php echo date("Y"); ?> &bull; <a href="/generators/">generators</a> &bull; <a href="https://aroceu.com">contact</a>
+    &copy; <?php echo date("Y"); ?> &bull; <a href="../">generators</a> &bull; <a href="https://aroceu.com">contact</a>
     </div>
     </div>
     </div>

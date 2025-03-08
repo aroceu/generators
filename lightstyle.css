@@ -1,6 +1,6 @@
 
         body{
-background: url('/generators/img/lightbg.png') #fff;
+background: url('../generators/img/lightbg.png') #fff;
 color: #888;
 font: normal 100%/160% 'Source Code Pro', sans-serif;
         margin: 0;

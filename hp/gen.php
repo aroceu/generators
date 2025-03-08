@@ -3,8 +3,8 @@
     <head>
         
         <title>Harry Potter Gen Generator</title>
-<link rel="shortcut icon" type="image/x-icon" href="/generators/favico.png" />
-            <link rel="stylesheet" href="/generators/hp/style.css" type="text/css" media="screen">
+        <link rel="shortcut icon" type="image/x-icon" href="../favico.png" />
+        <link rel="stylesheet" href="style.css" type="text/css" media="screen">
         
         </head>
         

@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -7,7 +8,7 @@
     <meta name="viewport" content="initial-scale=1.0">
     <meta name="robots" content="noai, noimageai">
 
-    <link rel="shortcut icon" type="image/x-icon" href="/generators/crj/crj.ico" />
+    <link rel="shortcut icon" type="image/x-icon" href="crj.ico" />
 
     
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -146,7 +147,7 @@ print($data);
 </div>
 
 <div id="footer">
-      &copy; <?php echo date("Y"); ?> &bull; <a href="/generators/">generators</a> &bull; <a href="/generators/ts">Taylor Swift</a> &bull; <a href="/generators/mitski">Mitski</a> &bull; <a href="https://aroceu.com">contact</a>
+      &copy; <?php echo date("Y"); ?> &bull; <a href="../">generators</a> &bull; <a href="../ts">Taylor Swift</a> &bull; <a href="../mitski">Mitski</a> &bull; <a href="https://aroceu.com">contact</a>
     </div>
 </div>
 

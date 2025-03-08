@@ -3,8 +3,8 @@
     <head>
         
         <title>Harry Potter Multi Prompt Generator</title>
-<link rel="shortcut icon" type="image/x-icon" href="/generators/favico.png" />
-            <link rel="stylesheet" href="/generators/hp/style.css" type="text/css" media="screen">
+        <link rel="shortcut icon" type="image/x-icon" href="../favico.png" />
+        <link rel="stylesheet" href="style.css" type="text/css" media="screen">
         
         </head>
         
@@ -40,7 +40,7 @@ else{
 
 </div>
 
-<p>Generates multiple prompts to be combined, much like the <a href="/generators/multi">generic one</a>. Harry Potter-specific tropes are included, and comprise of approximately half of the possible prompts. Some tropes may possibly contradict each other, so don't hesitate to generate another set - though kudos if you manage to put in contradicting prompts into one fanwork.</p>
+<p>Generates multiple prompts to be combined, much like the <a href="../multi">generic one</a>. Harry Potter-specific tropes are included, and comprise of approximately half of the possible prompts. Some tropes may possibly contradict each other, so don't hesitate to generate another set - though kudos if you manage to put in contradicting prompts into one fanwork.</p>
                 </p>
 
                 </p>

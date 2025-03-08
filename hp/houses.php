@@ -4,7 +4,7 @@
         
         <title>Harry Potter House Shuffler</title>
 <link rel="shortcut icon" type="image/x-icon" href="/generators/favico.png" />
-            <link rel="stylesheet" href="/generators/hp/style.css" type="text/css" media="screen">
+            <link rel="stylesheet" href="style.css" type="text/css" media="screen">
         
         </head>
         
@@ -34,7 +34,7 @@ print_r(array_random($character));
 
 </div>
 
-<p align="center">The same characters used in the <a href="/generators/hp/char">character + prompt</a> generator are here. Yes, including the Founders.</p>
+<p align="center">The same characters used in the <a href="char">character + prompt</a> generator are here. Yes, including the Founders.</p>
 
    <?php include ('footer.php') ?>
 

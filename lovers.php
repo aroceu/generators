@@ -133,7 +133,7 @@ echo implode(' &rarr; ',$result);       // display values (joined by ' and ')
 
 <div id="footer">
     credit is not required, but always appreciated <font color="#86001E">&hearts;</font> 
-    <br />&copy; <?php echo date("Y"); ?> <font color="#86001E">&hearts;</font> <a href="/generators/">generators</a> <font color="#86001E">&hearts;</font> <a href="https://aroceu.com">aroceu</a> 
+    <br />&copy; <?php echo date("Y"); ?> <font color="#86001E">&hearts;</font> <a href="../generators">generators</a> <font color="#86001E">&hearts;</font> <a href="https://aroceu.com">aroceu</a> 
 </div>
 
 </div>

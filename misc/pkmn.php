@@ -8,7 +8,7 @@
     <head>
         
         <title>Pok&eacute;mon Prompt Generator</title>
-<link rel="shortcut icon" type="image/x-icon" href="/generators/favico.png" />
+<link rel="shortcut icon" type="image/x-icon" href="../favico.png" />
             <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
 
 <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
@@ -164,4 +164,4 @@ echo $input[$rand_keys[1]] . "";
 <p align="center"><a class="refresh" onclick="location.reload();">Generate another?</a></p>
                 
 <div id="footer">
- &copy; <?php echo date("Y"); ?> &bull; <a href="/generators/">generators</a> &bull; <a href="https://aroceu.com">contact</a></div>
+ &copy; <?php echo date("Y"); ?> &bull; <a href="../">generators</a> &bull; <a href="https://aroceu.com">contact</a></div>

@@ -8,7 +8,7 @@
     <head>
         
         <title>Yuri!!! on Ice Prompt Generator - Main Characters</title>
-<link rel="shortcut icon" type="image/x-icon" href="/generators/favico.png" />
+        <link rel="shortcut icon" type="image/x-icon" href="../favico.png" />
         <meta name="viewport" content="initial-scale=1.0">
 
 
@@ -153,7 +153,7 @@ echo $yoi[$rand_keys[1]] . "";
 <p align="center"><input type="button" onclick="location.reload();" value="Generate another?" /></p>
 
 <div id="footer">
- &copy; <?php echo date("Y"); ?> &bull; <a href="/generators/">generators</a> &bull; <a href="https://aroceu.com">contact</a></div>
+ &copy; <?php echo date("Y"); ?> &bull; <a href="../">generators</a> &bull; <a href="https://aroceu.com">contact</a></div>
     
     </div>
     

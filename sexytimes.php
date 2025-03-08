@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
     
     <head>
@@ -7,7 +8,7 @@
 
 
 
-<link rel="shortcut icon" type="image/x-icon" href="/generators/favico.png" />
+<link rel="shortcut icon" type="image/x-icon" href="favico.png" />
             <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:200,600|Major+Mono+Display" rel="stylesheet">
             
 <?php
@@ -3383,7 +3384,7 @@ else{
 </div>
 
 <div id="footer">
-    &copy; <?php echo date("Y"); ?> &bull; <a href="/generators/">generators</a> &bull; <a href="https://aroceu.com">contact</a>
+    &copy; <?php echo date("Y"); ?> &bull; <a href="../generators">generators</a> &bull; <a href="https://aroceu.com">contact</a>
     </div>
 
     </div>

@@ -3,7 +3,7 @@
     <head>
         
         <title>Mo Dao Zu Shi Prompt Generator - Older Generation </title>
-<link rel="stylesheet" href="/generators/mdzs/style.css" type="text/css" media="screen">
+<link rel="stylesheet" href="style.css" type="text/css" media="screen">
 
 <style type="text/css">
     body{

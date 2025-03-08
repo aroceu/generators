@@ -5,7 +5,7 @@
     <head>
         
         <title>Mo Dao Zu Shi Prompt Generator - Main Generation </title>
-<link rel="stylesheet" href="/generators/mdzs/style2.css" type="text/css" media="screen">
+<link rel="stylesheet" href="style2.css" type="text/css" media="screen">
 
 <style type="text/css">
     body{

@@ -16,7 +16,7 @@
 	<div id="sub">
 		<ul><li><a href="about">About</a></li>
 			<li><a href="lexicon">Lexicon</a></li>
-			<li><a href="https://aroceu.com">Contact</a></li>
+			<li><a href="../">Contact</a></li>
 		</ul>
 		
 		<p>&copy; 2017-<?php echo date("Y"); ?></p>

@@ -5,7 +5,7 @@
     <title>Taylor Swift Lyric Generator</title>
     
     <meta name="viewport" content="initial-scale=1.0">
-    <link rel="shortcut icon" type="image/x-icon" href="/generators/ts/red.ico" />
+    <link rel="shortcut icon" type="image/x-icon" href="red.ico" />
 
     
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -149,7 +149,7 @@ print($data);
 </div>
 
 <div id="footer">
-    &copy; <?php echo date("Y"); ?> | <a href="/generators/">Generators</a> | <a href="/generators/crj">Carly Rae Jepsen</a> | <a href="/generators/mitski">Mitski</a> | <a href="https://aroceu.com">Contact</a>
+    &copy; <?php echo date("Y"); ?> | <a href="../">Generators</a> | <a href="../crj">Carly Rae Jepsen</a> | <a href="../mitski">Mitski</a> | <a href="https://aroceu.com">Contact</a>
     </div>
 </div>
 

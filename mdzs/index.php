@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en"><!-- bunny -->
     <head>
         
@@ -5,7 +6,7 @@
         
         <title>Mo Dao Zu Shi Generator Index</title>
 
-<link rel="shortcut icon" type="image/x-icon" href="/generators/favico.png" />
+<link rel="shortcut icon" type="image/x-icon" href="../../generators/favico.png" />
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Arsenal:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Allura&display=swap" rel="stylesheet">
@@ -212,7 +213,7 @@ li.mobile{
             </ul>
 
     <div id="footer">
-    &copy; <?php echo date("Y"); ?> &bull; <a href="/generators/">generators</a> &bull; <a href="https://aroceu.com">contact</a>
+    &copy; <?php echo date("Y"); ?> &bull; <a href="../">generators</a> &bull; <a href="https://aroceu.com">contact</a>
     </div>
     </div>
 

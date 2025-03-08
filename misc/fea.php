@@ -1,7 +1,7 @@
 <?php include('../php/func.php')?>
 <?php include('../php/fea.php')?>
 <?php include('../php/fandom.php') ?>
-
+<!DOCTYPE html>
 <html lang="en">
     
     <head>
@@ -9,8 +9,8 @@
         <title>Fire Emblem: Awakening Prompt Generator</title>
                 <meta name="viewport" content="initial-scale=1.0">
 
-<link rel="shortcut icon" type="image/x-icon" href="/generators/favico.png" />
-<link href="https://fonts.googleapis.com/css?family=Bellefair|Zilla+Slab" rel="stylesheet">
+                <link rel="shortcut icon" type="image/x-icon" href="../favico.png" />
+                <link href="https://fonts.googleapis.com/css?family=Bellefair|Zilla+Slab" rel="stylesheet">
                 
         <style type="text/css">
         
@@ -140,6 +140,6 @@ echo $fea[$rand_keys[1]] . "";
 
 
 <div id="footer">
-     &copy; <?php echo date("Y"); ?> &bull; <a href="/generators/">generators</a> &bull; <a href="https://aroceu.com">contact</a>
+     &copy; <?php echo date("Y"); ?> &bull; <a href="../">generators</a> &bull; <a href="https://aroceu.com">contact</a>
     </div>
 </div>

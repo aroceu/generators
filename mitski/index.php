@@ -6,7 +6,7 @@
         
         <meta name="viewport" content="initial-scale=1.0">
         
-            <link rel="shortcut icon" type="image/x-icon" href="/generators/mitski/puberty2.ico" />
+            <link rel="shortcut icon" type="image/x-icon" href="puberty2.ico" />
         
         <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,700;1,400;1,700&family=Pinyon+Script&display=swap" rel="stylesheet">
@@ -151,7 +151,7 @@ print($data);
 </div>
 
 <div id="footer">
-    &copy; <?php echo date("Y"); ?> &bull; <a href="/generators/">Generators</a> &bull; <a href="/generators/ts">Taylor Swift</a> &bull; <a href="/generators/crj">Carly Rae Jepsen</a> &bull; <a href="https://aroceu.com">Contact</a>
+    &copy; <?php echo date("Y"); ?> &bull; <a href="../">Generators</a> &bull; <a href="../ts">Taylor Swift</a> &bull; <a href="../crj">Carly Rae Jepsen</a> &bull; <a href="https://aroceu.com">Contact</a>
     </div>
 </div>
         

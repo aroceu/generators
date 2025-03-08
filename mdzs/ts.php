@@ -32,7 +32,7 @@ $ts = array("the 1", "22", "Afterglow", "All Too Well", "All You Had to Do Was S
     <meta name="viewport" content="initial-scale=1.0">
     
     <link href="https://fonts.googleapis.com/css2?family=Arsenal:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
-    <link rel="shortcut icon" type="image/x-icon" href="/generators/favico.png" />
+    <link rel="shortcut icon" type="image/x-icon" href="../../generators/favico.png" />
 
     
     <title>

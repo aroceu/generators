@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
     
     <head>
@@ -5,7 +6,7 @@
         <title>Harry Potter Gen Generator</title>
                         <meta name="viewport" content="initial-scale=1.0">
 
-<link rel="shortcut icon" type="image/x-icon" href="/generators/favico.png" />
+                        <link rel="shortcut icon" type="image/x-icon" href="../favico.png" />
 
         <style type="text/css">
         
@@ -173,7 +174,7 @@ body{
             </ul>
 
     <div id="footer">
-    &copy; <?php echo date("Y"); ?> &bull; <a href="/generators/">generators</a> &bull; <a href="https://aroceu.com">contact</a>
+    &copy; <?php echo date("Y"); ?> &bull; <a href="../">generators</a> &bull; <a href="https://aroceu.com">contact</a>
     </div>
     </div>
 

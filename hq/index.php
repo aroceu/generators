@@ -191,7 +191,7 @@ h1{
         </ul>
         
 
-<div id="footer"> &copy; <?php echo date("Y"); ?> &bull; <a href="/generators/">generators</a> &bull; <a href="https://aroceu.com">contact</a></div>
+<div id="footer"> &copy; <?php echo date("Y"); ?> &bull; <a href="../">generators</a> &bull; <a href="https://aroceu.com">contact</a></div>
 
 </body>
 </html>

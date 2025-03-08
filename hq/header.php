@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
     <head>
 
@@ -8,5 +9,5 @@
 
 <meta name="robots" content="noai, noimageai">
 
-<link rel="shortcut icon" type="image/x-icon" href="/generators/favico.png" />
+<link rel="shortcut icon" type="image/x-icon" href="../../generators/favico.png" />
         <link href="https://fonts.googleapis.com/css?family=PT+Sans|Poiret+One" rel="stylesheet">
