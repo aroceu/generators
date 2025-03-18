@@ -81,7 +81,7 @@
 
 #prompts, #index{
     border: 1px solid #ccc;
-    font: normal 180% 'Futura', sans-serif;
+    font: normal 180% 'Futura', 'Century Gothic', sans-serif;
     text-align: center;
     padding: 1em;
     margin-top: -18px;
@@ -150,7 +150,7 @@ input[type=button]:hover{
 }
 
 h1{
-        font: normal 200% 'Futura';
+        font: normal 200% 'Futura', 'Century Gothic', sans-serif;
     color: #fff;
     text-transform: uppercase;
     text-shadow: 0.05em 0.05em 0 #233c72;  
