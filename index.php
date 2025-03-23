@@ -20,8 +20,7 @@
 		</ul>
 		
 		<p>&copy; 2017-<?php echo date("Y"); ?></p>
-		<p style="letter-spacing: 15px;color: #ffe796;
-  margin-top: 30px;">↑ ↑ ↓ ↓ ← → ← → B A</p>
+		<p class="konami">↑ ↑ ↓ ↓ ← → ← → B A</p>
 	</div>
 
 	<script type="text/javascript" src="https://kingdra.net/x/konami.js"></script>
