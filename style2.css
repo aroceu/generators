@@ -1,7 +1,6 @@
 body{
-	 background: #ffffff;
-  color: #333;
-  background: url('pg bg.png') right no-repeat fixed;
+    color: #333;
+  background: url('pg bg.png') right no-repeat fixed #5C98B2;
     background-size: 35em;
     margin: 0;
     width: 100%;
@@ -22,12 +21,13 @@ body{
 
 ul#menu-primary {
     margin: 0 !important;
-    background:  #5C98B2;
+    background:  #ffffff;
     text-align: center;
     width: 100%;
     padding-start: 0 !important;
     -webkit-padding-start: 0 !important;
     -moz-padding-start: 0 !important;
+    border-bottom: 5px solid #90c4da;
     box-shadow: #ffeeb5 0px 5px 0.2px;
   }
 
@@ -44,13 +44,13 @@ ul#menu-primary li {
     text-transform: lowercase;
     text-decoration: none;
     border-bottom: none !important;
-    color: #ffffff;
+    color: #5C98B2;
     display: block;
     padding-bottom: 0.15em;
   }
 
   ul#menu-primary li a:hover, ul#menu-primary li ul li a:hover, ul#menu-primary li a:focus, ul#menu-primary li ul li a:focus {
-  	color: #ffeeb5;
+  	font-style: italic;
   }
 
   ul#menu-primary li:hover > ul, ul#menu-primary li:focus > ul, ul #menu-primary li > ul li a:hover, ul #menu-primary li > ul li a:focus {
@@ -65,15 +65,16 @@ ul#menu-primary ul {
     padding-inline-start: 0 !important;
     border-bottom-right-radius: 30px;
     border-bottom-left-radius: 30px;
-    background:  #5C98B2;
+    background:  #ffffff;
     box-shadow: #ffeeb5 0px 5px 0.2px;
+    border-bottom: 5px solid #90c4da;
   }
 
   #sub{
   	margin-top: 8em;
   	text-align: center;
   	font: normal 100% 'Open Sans';
-  	color: #5C98B2;
+  	color: #ffffff;
   }
 
   #sub ul{
@@ -88,18 +89,20 @@ ul#menu-primary ul {
   }
 
   #sub ul li a:link, #sub ul li a:visited{
-  	color: #5C98B2;
+  	color: #ffffff;
   	text-decoration: none;
   	text-transform: lowercase;
   	    font: normal 2.4em 'Cookie', cursive;
   }
 
   #sub ul li a:hover, #sub ul li a:focus{
-  	    text-shadow: #ffeeb5 2px 2px 0px;
+    color: #ffeeb5;
+  	    text-shadow: rgb(132, 192, 218) 2px 2px 0px;
   }
-
+  
   #container{
-    border: 1px solid #5C98B2;
+    border: 5px solid #ffeeb5;
+    background: #ffffff;
     padding: 1em;
     width: 50em;
     margin: 3em auto;
@@ -121,6 +124,10 @@ ul#menu-primary ul {
     text-align: center;
   }
 
+  b, strong{
+    color: #5C98B2;
+  }
+
   .home{
     margin: 1.5em auto;
   }
@@ -131,13 +138,14 @@ ul#menu-primary ul {
     font: normal 2em 'Cookie', cursive;
     color: #5C98B2;
     text-decoration: none;
+    width: fit-content;
+    margin: 0 auto;
   }
 
   .home a:hover, .home a:focus{
-      text-shadow: #c8e7f1 2px 2px 0px;
       background: none!important;
       color: #5C98B2!important;
-      box-shadow: none!important;
+      box-shadow: inset 0 -15px 0 #c8e7f1!important;
   }
 
   #container ul li{

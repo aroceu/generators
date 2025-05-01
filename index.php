@@ -2,12 +2,16 @@
 
 <style type="text/css">
     body{
-	 background: #ffffff;
-  color: #333;
-  background: url('pg bg.png') center no-repeat fixed;
+  color: #fff;
+  background: url('pg bg.png') center no-repeat fixed #5C98B2;
     background-size: 35em;
     margin: 0;
     width: 100%;
+}
+
+h1{
+	color: #fff;
+	text-shadow: 2px 2px 0 rgb(121, 181, 207);
 }
 </style>
 	
