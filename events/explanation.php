@@ -53,7 +53,7 @@
         <p>Possible subjects are:</p>
 
             <ul>
-                <li><strong>broader fandom</strong> - an umbrella group that encompasses multiple fandoms, such as Sports Anime, MXTX, Shoujo, RPF, Sports RPF, Boy Bands, Books, Movies, etc.</li>
+                <li><strong>broader fandom</strong> - an umbrella group that encompasses multiple fandoms, such as Sports Anime, MXTX, Shoujo, RPF, Sports RPF, Boy Bands, Books, Movies, K-Pop etc.</li>
                 <li><strong>fandom</strong> - a specific title or media contained in one narrative world (though what this means is up to you)</li>
                 <li><strong>ship</strong> - a relationship between two or more characters, often romantic/sexual in nature</li>
                 <li><strong>character</strong> - a character. Just a guy (gender neutral).</li>
