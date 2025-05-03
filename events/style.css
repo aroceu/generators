@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Rancho&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+*, html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #fff url('background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font: normal 1em/160% 'Roboto Mono', sans-serif;
+    color: #333;
+}
+
+h1{
+    font: normal 3em/160% 'Rancho', sans-serif;
+    color: #444;
+    text-align: center;
+    margin: 1em 0 0;
+}
+
+#container{
+    background: #fff;
+    margin: 5em auto;
+    width: 50em;
+    padding: 2em;
+    border: 10px solid #333;
+}
+
+nav{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+nav a{
+    letter-spacing: 2px;
+    display: inline-block;
+    margin: 0 1em;
+}
+
+nav a:link, nav a:visited{
+    color: #fff;
+    text-decoration: none;
+    background: #333;
+}
+
+nav a:hover, nav a:active{
+    color: #333;
+    background: #fff;
+}
+
+#prompt{
+    margin: 2em auto;
+    text-align: center;
+    font-size: 1.5em;
+    line-height: 180%;
+}
+
+underline{
+    text-decoration: underline;
+}
+
+input{
+    border: solid 3px #333;
+    background: #fff;
+    color: #333;
+    font: normal 1.1em/160% 'Rancho', sans-serif;
+    padding: 2px 0.5em;
+    text-transform: lowercase;
+    margin: 2em auto 0;
+    letter-spacing: 1px;
+}
+
+input:focus, input:hover, input:active{
+    outline: none;
+    color: #fff;
+    background: #333;
+}
+
+ul{
+    padding-left: 2em;
+}
+
+p, li{
+    padding: 0.5em 0;
+}
+
+blockquote{
+    font-size: 1.2em;
+    color: #444;
+    text-align: center;
+    margin: 2em auto;
+    font-style: italic;
+}
+
+summary{
+    margin-bottom: 0.5em;
+}
+
+em{
+    color: #999;
+}
+
+underline{
+    color: inherit;
+    text-decoration: underline dotted;
+}
+
+a:link, a:visited{
+    color: #333;
+    text-decoration: underline solid;
+}  
+
+a:hover, a:active{
+    color: #fff;
+    text-decoration: underline solid;
+    background: #333;
+}
+
+#explanation{
+    margin: 2em 0 0;
+}
+
+#footer{
+    text-align: center;
+    margin: 3em auto 0;
+}
+
+@media only screen and (max-width: 810px) and (min-width: 0px) {
+    
+    html {
+-webkit-text-size-adjust: 100%;
+}
+
+#container{
+    width: 95%;
+    margin: 5% auto;
+}
+
+nav a{
+    margin-bottom: 1em;
+}
+
+h1{
+    line-height: 120%;
+    font-size: 2em;
+}
+
+#prompt{
+    font-size: 1.3em;
+}
+}
