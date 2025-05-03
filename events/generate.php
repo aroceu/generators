@@ -1,6 +1,6 @@
 <?php include ('../php/func.php');
 
-$medium=array(" <strong>fanfiction", " <strong>fanwork", " <strong>fictional work", "n <strong>artwork");
+$medium=array(" <strong>fanfiction", " <strong>fanwork", "n <strong>artwork");
 $event = array(" gift exchange", " prompt fest", " fan week", " zine", " bang/reverse bang", " team competition");
 $subject = array("broader fandom ", "fandom(s) ", "ship(s) ", "character(s) ", "trope ");
 $adjective = array("a well-known ", "an underrated ", "any ", "your ");

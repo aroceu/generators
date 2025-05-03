@@ -12,12 +12,11 @@
             <p>The possible results here are: </p>
                 <ul>
                   <li>fanfiction</li>
-                  <li>fictional works</li>
-                  <li>artworks</li>
-                  <li>fanworks</li>
+                  <li>artwork</li>
+                  <li>fanwork</li>
                   </ul> 
                   
-                  <p>No others are listed because I would assume anyone who would like to make a podfic/video etc. sort of event would already have that in mind. Writing and art are the most popular forms of fanwork, particularly in the digital space. They are the most specified mediums here, as "fictional works" can apply to comics and games (and other storytelling mediums), while "fanwork" may be inclusive of things such as podfic and videos.</p>
+                  <p>No others are listed because I would assume anyone who would like to make a podfic/video etc. sort of event would already have that in mind. Writing and art are the most popular forms of fanwork, particularly in the digital space. "Fanwork" is broader and includes things such as comics, games, podfic, videos, edits, and cosplay.</p>
             
         <p><strong>How will the participants engage in the event?</strong></p>
 
