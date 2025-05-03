@@ -13,9 +13,9 @@
 
     <div id="blurb">
         <details><summary>What is this?</summary>
-        <p>This generator gives you the skeleton of an idea for a coordinated creative group project or event. It is built with fandom events in mind, such as exchanges and big bangs, but options are not strictly fannish in nature (nor, necessarily, is its intention to be so restrictive).</p> 
+        <p>This generator gives you the skeleton of an idea for a fandom event or challenge. Though it is built for and with the fandom community specifically in mind, feel free to modify the results to your own liking - these are only suggestions..</p> 
         
-        <p>Some may not make sense together, so feel free to adjust as you see fit. As usual, these are not assignments or rules, just suggestions. </p>
+        <p>Some may not make sense together, so feel free to adjust as you see fit. As usual, these are not assignments or rules by any means, and do not have to be followed to a T. </p>
 
         <p>Each prompt provides the general idea of an event rather than anything more specific, such as "a rare ship," "a character," "a well-known fandom." The specifics are up to you to decide and interpret, or you can choose to host multi-fandom events where the broad categorization is the center of it. Whether or not you choose to follow the prompt as-is or make your own adjustments to it is up to you.</p> 
         
