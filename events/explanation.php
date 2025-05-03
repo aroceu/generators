@@ -9,7 +9,6 @@
         
         <p><strong>What kind of creative work is to be made and submitted?</strong> </p>
             
-            <p>The possible results here are: </p>
                 <ul>
                   <li>fanfiction</li>
                   <li>artwork</li>
@@ -19,8 +18,6 @@
                   <p>No others are listed because I would assume anyone who would like to make a podfic/video etc. sort of event would already have that in mind. Writing and art are the most popular forms of fanwork, particularly in the digital space. "Fanwork" is broader and includes things such as comics, games, podfic, videos, edits, and cosplay.</p>
             
         <p><strong>How will the participants engage in the event?</strong></p>
-
-                  <p>Possible results are:</p>
 
                   <ul>
                     <li><a href="https://fanlore.org/wiki/Gift_Exchange"><strong>gift exchange</strong></a> - arguably the most common type, gift exchanges are where participants sign up to get matched and create for another participant</li>
@@ -40,8 +37,6 @@
         <p>Fandom events need to have a subject at the center, to give them purpose, to give participants direction, and to distinguish them from other fandom events in some way. The breadth of this is up to you. I've included options for plurality if multi-fandom events are more your thing.</p>
 
         <p>All subjects will have an adjective in front of them in case you would like a subject but are struggling to come up with one. These can be used in multi-fandom ways as well, ex. an event centered around underrated characters in any fandom at the participants' discretion (though it would be wise to add a prompt here as well for a clearer sense of direction).</p> 
-        <p>Possible adjectives are:</p>
-
             <ul>
                 <li><strong>well-known</strong> ("popular")</li>
                 <li><strong>underrated</strong> ("rare" or "not popular", depending on how you would like to interpret it)</li>
@@ -49,9 +44,7 @@
             </ul>
 
         <p>Subjects have a plurality option to account for multi-fandom events. The only exception to this is "broader fandom," as it is inherently multi-fandom in conceit.</p> 
-        
-        <p>Possible subjects are:</p>
-
+    
             <ul>
                 <li><strong>broader fandom</strong> - an umbrella group that encompasses multiple fandoms, such as Sports Anime, MXTX, Shoujo, RPF, Sports RPF, Boy Bands, Books, Movies, K-Pop etc.</li>
                 <li><strong>fandom</strong> - a specific title or media contained in one narrative world (though what this means is up to you)</li>
@@ -64,8 +57,6 @@
 
         <p>Each new prompt has a 50% chance of having an additional limitation for the submitted works as another challenge or restriction to encourage participants' creativity. Sometimes these do not fit perfectly with combinations of other generated elements; your mileage may vary.</p> 
         
-        <p>Possible restrictions are:</p>
-
         <ul><li><strong>[a trope]</strong> - must incorporate a specific trope of the generator's choosing (or, if you don't like it, then your own choosing)</li>
             <li><strong>[a movie]</strong> - participants must choose a movie to take inspiration from in terms of story</li>
             <li><strong>[a song/music video]</strong> - event moderators may provide music, song, or music videos (ex. Taylor Swift songs, a playlist, a specific album); or participants must choose a piece of music, song, or music video to draw inspiration from</li>
