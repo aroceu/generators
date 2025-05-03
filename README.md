@@ -15,6 +15,12 @@ I also made the [Sexy Times With Wangxian tag generator](https://aroceu.com/gene
 
 # changelog
 
+### 03 May 2025
+
+A few days ago I swapped the color palette on the index page to be white on blue instead of blue on white. It had been bothering me for some time how empty and basic the index page looked, despite it fitting with the motif of my other websites in aesthetic. But then I realized recently that I could fix that by swapping the colors, so! Here we are. I like it a lot more now :)
+
+I also added a <a href="https://aroceu.com/generators/events">fandom event generator</a>, because it had come to me randomly this week and I wanted something to work on as an excuse to procrastinate. So here it is (though I'm still procrastinating.)
+
 ### 23 October 2024
 Finally putting the code for this on Github! Maybe archiving my changes is important, actually. 
 
