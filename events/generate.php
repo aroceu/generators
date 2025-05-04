@@ -1,9 +1,19 @@
 <?php include ('../php/func.php');
 
-$medium=array(" <strong>fanfiction", " <strong>fanwork", "n <strong>artwork");
+$medium=array(" <strong>fanfiction", " <strong>fanwork", " <strong>artwork");
 $event = array(" gift exchange", " prompt fest", " fan week", " zine", " bang/reverse bang", " team competition");
 $subject = array("broader fandom ", "fandom(s) ", "ship(s) ", "character(s) ", "trope ");
 $adjective = array("a well-known ", "an underrated ", "any ", "your ");
+
+function getAnonymous(){
+    $anonymousTrue = rand(0, 1) == 1;
+    if($anonymousTrue){
+        print_r("n <em>anonymous</em>");
+    }
+    else{
+        // do nothing
+    }
+}
 
 function getExtra() {
     $extraTrue = rand(0, 1) == 1;
