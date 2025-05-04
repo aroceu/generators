@@ -17,7 +17,7 @@
         
         <p>Some may not make sense together, so feel free to adjust as you see fit. As usual, these are not assignments or rules by any means, and do not have to be followed to a T. </p>
 
-        <p>"Anonymous" means that there is an anonymity period for all works, which is common in fandom as a way to view works from fans indiscriminately.</p>
+        <p>"Anonymous" means that there is an anonymity period for all works, which is common in fandom as a way to view works from fans indiscriminately. It has a 50% chance of appearing.</p>
 
         <p>Each prompt provides the general idea of an event rather than anything more specific, such as "a rare ship," "a character," "a well-known fandom." The specifics are up to you to decide and interpret, or you can choose to host multi-fandom events where the broad categorization is the center of it. Whether or not you choose to follow the prompt as-is or make your own adjustments to it is up to you.</p> 
         

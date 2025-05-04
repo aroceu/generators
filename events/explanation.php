@@ -15,7 +15,7 @@
 
         <p>The anonymous period usually lasts no longer than a week to ten days. Anonymous events have two reveal periods: first the works, then the creators. Anonymous zines may have works uncredited in the zine, but creators can post them on their personal accounts.</p>
 
-        <p>Of course, non-anonymous events are possible as well - just a one and done submission to reveal. It depends on your intention and scope of the event.</p>
+        <p>Of course, non-anonymous events are possible as well - just a one and done submission to reveal. It depends on your intention and scope of the event. Anonymity has a 50% chance of appearing on each new prompt.</p>
 
         <p><strong>What kind of creative work is to be made and submitted?</strong> </p>
             
