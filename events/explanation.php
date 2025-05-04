@@ -11,7 +11,7 @@
 
         <p>Many events in fandom tend to be "anonymous" in some way - that is, works are initially revealed to the public anonymously. This practice tends to help with community bonding and formulating friendships, as works can be browsed largely indiscriminately, and foster an element of curiosity. Fans can also make friends this way, if they are impressed by each other's works.</p>
 
-        <p>Some anonymous events have a formal guessing period as well, where fans try to guess the others' works. This challenge encourages fans to create more experimentally. </p>
+        <p>Some anonymous events have a formal guessing period as well, where fans try to guess the others' works. This challenge encourages fans to create more experimentally, and operates like as a casual game. </p>
 
         <p>The anonymous period usually lasts no longer than a week to ten days. Anonymous events have two reveal periods: first the works, then the creators. Anonymous zines may have works uncredited in the zine, but creators can post them on their personal accounts.</p>
 
