@@ -13,7 +13,7 @@
 
     <div id="blurb">
         <details><summary>What is this?</summary>
-        <p>This generator gives you the skeleton of an idea for a fandom event or challenge. Though it is built for and with the fandom community specifically in mind, feel free to modify the results to your own liking - these are only suggestions..</p> 
+        <p>This generator gives you the skeleton of an idea for a fandom event or challenge. Though it is built for and with the fandom community specifically in mind, feel free to modify the results to your own liking - these are only suggestions.</p> 
         
         <p>Some may not make sense together, so feel free to adjust as you see fit. As usual, these are not assignments or rules by any means, and do not have to be followed to a T. </p>
 
