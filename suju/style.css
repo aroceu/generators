@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Jost:ital,wght@0,100..900;1,100..900&family=Parisienne&display=swap');
+*, html{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #124188;
+    border-bottom: 3em dotted #fff;
+    min-height: 95vh;
+    margin-bottom: 1vh;
+    font: normal 1em/160% 'Bodoni Moda', serif;
+    color: #11213a;
+}
+
+#container{
+    width: 50em;
+    margin: 3vh auto;
+    background: #fff;
+    padding: 3em;
+    min-height: 50em;
+    border-radius: 30em;
+    text-align: center;
+}
+
+h1{
+    font: normal 3.5em 'Parisienne', cursive;
+    max-width: 10em;
+    margin: 0 auto;
+    color: #124188;
+}
+
+h1 .pearl{
+    color: #11213a;
+}
+
+#blurb{
+    font-size: 1.1em;
+    max-width: 90%;
+    margin: 1em auto;
+}
+
+p{
+    padding: 0.5em 0;
+}
+
+a:link, a:visited{
+    color: #1d4e98;
+    font: normal 1.2em 'Parisienne', cursive;
+    text-decoration: none;
+}
+
+a:hover, a:active{
+    color: #11213a;
+}
+
+ul.nav{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 23em;
+    margin: 0 auto;
+    gap: 5%;
+    text-transform: lowercase;
+}
+
+ul.nav li{
+    flex: 40%;
+    max-width: 40%;
+    margin-bottom: 5%;
+}
+
+ul.nav li a:link, ul.nav li a:visited{
+    display: flex;
+    font-size: 1.5em;
+    background: #1d4e98;
+    border-radius: 150px;
+    min-height: 150px;
+    max-height: 150px;
+    min-width: 150px;
+    max-width: 150px;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+}
+
+ul.nav li a:hover, ul.nav li a:focus, ul.nav li a:active{
+    background: #fff;
+    color: #1d4e98;
+}
+
+#footer{
+    font: normal 1.2em 'Parisienne';
+}
+
+h2{
+    color: #124188;
+    font: normal 2em 'Bodoni Moda', serif;
+    text-transform: lowercase;
+    letter-spacing: 2px;
+}
+
+prompt{
+    display: block;
+    margin: 1em auto;
+    font: bold 2.5em 'Bodoni Moda', serif;
+    color: #fff;
+    background: #124188;
+    border-radius: 300px;
+    border: 0.2em double #fff;
+    padding: 1em;
+}
+
+prompt .prompt{
+    font: italic 0.6em 'Bodoni Moda', serif;
+    text-transform: lowercase;
+}
+
+.and{
+    padding: 0 0.3em;
+    color: #aac5ee;
+}
+
+input[type="button"]{
+    color: #124188;
+    border: 2px solid #124188;
+    background: #fff;
+    font: normal 1.8em 'Bodoni Moda', serif;
+    text-transform: lowercase;
+    border-radius: 5em;
+    padding: 0.5em 1em;
+    margin: 0 auto 2em;
+}
+
+input[type="button"]:hover{
+    background: #124188;
+    color: #fff;
+}

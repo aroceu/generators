@@ -40,6 +40,7 @@
 	<li><a href="hq">Haikyuu</a></li>
 	<li><a href="mdzs">Mo Dao Zu Shi</a></li>
 	<li><a href="bbs">Bad Buddy</a></li>
+	<li><a href="suju">Super Junior</a></li>
 	<li><a href="hp">Harry Potter</a></li>
 	<li><a href="misc/pkmn">Pok&eacute;mon</a></li>
 	<li><a href="misc/yoi">Yuri!! on Ice</a></li>
