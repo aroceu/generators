@@ -86,11 +86,15 @@ ul.nav li a:link, ul.nav li a:visited{
     color: #fff;
     justify-content: center;
     align-items: center;
+    transition: all 1s;
+
 }
 
 ul.nav li a:hover, ul.nav li a:focus, ul.nav li a:active{
     background: #fff;
     color: #1d4e98;
+    transform: rotate(360deg);
+    transition: all 1s;
 }
 
 #footer{
