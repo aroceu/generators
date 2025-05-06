@@ -107,12 +107,13 @@ h2{
 prompt{
     display: block;
     margin: 1em auto;
-    font: bold 2.5em 'Bodoni Moda', serif;
+    font: normal 2.5em 'Jost', sans-serif;
     color: #fff;
     background: #124188;
     border-radius: 300px;
     border: 0.2em double #fff;
     padding: 1em;
+    overflow-wrap: break-word;
 }
 
 prompt .prompt{

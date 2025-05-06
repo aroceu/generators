@@ -8,15 +8,15 @@
             <prompt><?php
 
 $rand_keys = array_rand($suju_members, $i=rand(3,5));
-echo $suju_members[$rand_keys[0]] . "/";
-echo $suju_members[$rand_keys[1]] . "/";
+echo $suju_members[$rand_keys[0]] . " / ";
+echo $suju_members[$rand_keys[1]] . " / ";
 
 if($i == 3){
     echo $suju_members[$rand_keys[2]];
 }
 else{
     for($c = 2; $c < $i - 1; ++$c){
-        echo $suju_members[$rand_keys[$c]] . "/";
+        echo $suju_members[$rand_keys[$c]] . " / ";
     }
     echo $suju_members[$rand_keys[$i - 1]];
 }
