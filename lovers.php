@@ -75,6 +75,14 @@
             a:hover, a:active, a:focus{
                 border-bottom: none;
             }
+
+                        .subtitle{
+                font-size: 0.6em;
+                text-align: center;
+                text-transform: lowercase;
+                margin: 0;
+                padding: 0;
+            }
             
             @media only screen and (max-width: 960px) {
 
@@ -114,6 +122,8 @@ input[type="button"]{
     
   
   <h1>...to Lovers Generator</h1>  
+    <p class="subtitle">(check out the <a href="dynamics">dynamics generator</a>!)</p>
+
 
 <p class="flavor"><?php
 $input_array=["friends","enemies","strangers","friends with benefits","enemies with benefits","friends","enemies","strangers","friends with benefits","enemies with benefits"];

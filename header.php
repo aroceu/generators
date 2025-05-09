@@ -57,6 +57,7 @@
 <li><a href="">Misc.</a><ul class="sub-menu">
 	<li><a href="sexytimes">Sexy Times</a></li>
 	<li><a href="lovers">...to Lovers</a></li>
+	<li><a href="dynamics">Dynamics</a></li>
 	<li><a href="events">Events</a></li>
 </ul>
 </li>
