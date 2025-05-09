@@ -152,9 +152,9 @@ input[type="button"]:hover{
     }
 
     #container {
-        width: 90%;
-        padding: 2em;
-        border-radius: 15em;
+        width: 95%;
+        padding: 0;
+        margin: 3vh auto 0;
     }
 
     h1 {
