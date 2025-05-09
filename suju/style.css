@@ -155,6 +155,7 @@ input[type="button"]:hover{
         width: 95%;
         padding: 0;
         margin: 3vh auto 0;
+        min-height: auto;
     }
 
     h1 {
