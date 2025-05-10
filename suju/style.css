@@ -197,6 +197,10 @@ input[type="button"]:hover{
         font-size: 2em;
     }
 
+    ul.nav{
+        display: block;
+    }
+
     ul.nav li{
         flex: 100%;
         max-width: 100%;
@@ -204,10 +208,10 @@ input[type="button"]:hover{
 
     ul.nav li a {
         font-size: 1em;
-        min-height: 70px;
-        max-height: 70px;
-        min-width: 70px;
-        max-width: 70px;
+        min-width: 60%!important;
+        display: block!important;
+        min-height: unset!important;
+        padding: 0.5em;
     }
 
     prompt {
