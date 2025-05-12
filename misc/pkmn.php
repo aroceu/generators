@@ -128,7 +128,7 @@ h1{
             
             <div id="container">
                 
-                <h1>Pok&eacute;mon Prompt Generator</h1>
+                <h1>Pok&eacute;mon Ship & Prompt Generator</h1>
 
                 <div id="prompts">
 
@@ -151,7 +151,17 @@ $input = array("Red","Green Ookido","Blue (Leaf)", "Gold (Ethan)", "Silver", "Cr
 "Professor Sycamore", "Alexa", "Bonnie", "Viola", "Grant", "Korrina", "Ramos", "Clemont", "Valerie", "Olympia", "Wulfric", "Malva", "Siebold", "Wikstrom", "Drasna", "Diantha", 
 "Aliana", "Bryony", "Celosia", "Mable", "Xerosic", "Lysandre", "AZ", "Evelyn", "Morgan", "Dana", "Nita","Emma",
 "Aarune", "Lisia", "Zinnia", 
-"Professor Kukui", "Ilima", "Lana", "Kiawe", "Mallow", "Sophocles", "Acerola", "Mina", "Hala", "Olivia", "Nanu", "Hapu", "Kahili", "Molayne", "Ryuki", "Plumeria", "Guzma", "Wicke", "Faba", "Lusamine" 
+"Professor Kukui", "Ilima", "Lana", "Kiawe", "Mallow", "Sophocles", "Acerola", "Mina", "Hala", "Olivia", "Nanu", "Hapu", "Kahili", "Molayne", "Ryuki", "Plumeria", "Guzma", "Wicke", "Faba", "Lusamine",
+"Mohn", "Samson Oak", "Dulse", "Zossie", "Phyco", "Soliera",
+"Chase", "Elaine", "Trace",
+"Scottie", "Bettie", "Paulo", "Tina", "Lear", "Sawyer", "Rachel", "Professor Bellis", "Trista", "Tricia", "Trinnia", "Naomi", "Helena",
+"Victor", "Gloria", "Hop", "Bede", "Marnie", "Sonia", "Milo", "Nessa", "Kabu", "Bea", "Allister", "Opal", "Gordie", "Melony", "Piers", "Raihan", "Leon", "Rose", "Oleana", "Sordward", "Shielbert", "Ball Guy",
+"Kiara", "Avery", "Mustard", "Honey", "Peony", "Peonia", "Hyde",
+"Rei", "Akari", "Professor Laventon", "Kamado", "Cyllene", "Zisu", "Ress", "Pesselle", "Tao Hua", "Colza", "Rye", "Sanqua", "Beni", "Anthe", "Choy", "Adaman", "Mai", "Arezu", "Iscan", "Melli", "Sabi", "Irida", "Lian", "Calaba", "Palina", "Gaeric", "Ginter", "Volo", "Tuli", "Charm", "Clover", "Coin", "Cogita",
+"Florian", "Juliana", "Nemona", "Arven", "Penny", "Professor Sada", "Professor Turo", "Clavell", "Katy", "Brassius", "Iono", "Kofu", "Larry", "Ryme", "Tulip", "Grusha", "Rika", "Poppy", "Hassel", "Geeta", "Giacomo", "Mela", "Atticus", "Ortega", "Eri", "Carmen", "Jacq", "Dendra", "Miriam", "Raifort", "Saguaro", "Salvatore", "Tyme", "Youssef", "Harrington",
+"Carmine", "Kieran", "Briar", "Perrin", "Billy", "O'Nare", "Yukito", "Hideko", "Cyrano", "Lacey", "Crispin", "Amarys", "Drayton", "Snacksworth", "Synclaire", "Mitch", "Filbert", "Terry", "Iso", "Allegro", "Reese"
+
+
 );
 $rand_keys = array_rand($input, 2);
 echo $input[$rand_keys[0]] . " &/ ";
