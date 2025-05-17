@@ -57,6 +57,13 @@
                 color: #86001E;
                 font: normal 220% 'Dancing Script', serif;
             }
+
+            strong{
+                color: #86001E;
+  font: normal 100% 'Dancing Script', serif;
+  display: inline-block;
+  padding: 0 0.5em;
+            }
             
             h1{
                 font: normal 280% 'Dancing Script', serif;
@@ -142,9 +149,9 @@ while(sizeof($result)<$count){        // iterate until count is fulfilled
         $result[]=$new_val;           // add new value if different from previous value
     }
 }
-echo implode(' &rarr; ',$result);       // display values (joined by ' and ')
+echo implode(' <strong>&rarr;</strong> ',$result);       // display values (joined by ' and ')
 
-?> &rarr; <b>lovers</b></p>
+?> <strong>&rarr;</strong> <b>lovers</b></p>
 
 <p align="center"><input type="button" onclick="location.reload();" value="Generate another?" />
 
