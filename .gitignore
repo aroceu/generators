@@ -1,1 +1,6 @@
 mdzs/error_log
+.DS_Store
+patd
+bbs/.DS_Store
+events/.DS_Store
+suju/.DS_Store
