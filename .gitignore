@@ -4,3 +4,4 @@ patd
 bbs/.DS_Store
 events/.DS_Store
 suju/.DS_Store
+!archived
