@@ -3,7 +3,7 @@
     
     <head>
         
-        <title>Harry Potter Gen Generator</title>
+        <title>Harry Potter Prompt Generators</title>
                         <meta name="viewport" content="initial-scale=1.0">
 
                         <link rel="shortcut icon" type="image/x-icon" href="../favico.png" />
@@ -162,7 +162,7 @@ body{
             <h1>Harry Potter Prompt Generators</h1>
             
             <p><b>I am no longer updating or offering support for these generators, as I would like to separate myself from this franchise as well as its creator.</b> However, since you're still on this page, and in case you have any interest in using my generators, please also consider donating to the following foundations:</p> 
-            <p align="center"><a href="https://genderedintelligence.co.uk/support-us/donate">Gendered Intelligence (UK)</a> &bull; <a href="https://mermaidsuk.org.uk/">Mermaids (UK)</a> &bull; <a href="https://www.transactual.org.uk/donate">TransActual (UK)</a> &bull; <a href="https://switchboard.lgbt/support-us">Switchboard (UK)</a></p>
+            <p align="center"><a href="https://genderedintelligence.co.uk/">Gendered Intelligence (UK)</a> &bull; <a href="https://mermaidsuk.org.uk/">Mermaids (UK)</a> &bull; <a href="https://www.transactual.org.uk/">TransActual (UK)</a> &bull; <a href="https://switchboard.lgbt/">Switchboard (UK)</a></p>
             <p align="center"><a href="https://sosuinc.org/">Save Our Sisters United (US, Houston)</a> &bull; <a href="https://www.gofundme.com/f/trans-housing-coalition-fund">Trans Housing Coalition Fund (US, Atlanta)</a></p> 
             <p align="center"><a href="https://fundly.com/missmajor">Miss Major's Retirement Fund</a> &bull; <a href="https://linktr.ee/BlackTransTravelFund">The Black Trans Travel Fund</a>.</p>
             <ul>
