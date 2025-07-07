@@ -1,5 +1,17 @@
 <?php include('header.php');?>
 
+<style type="text/css">
+
+li{
+  list-style-type: square;
+}
+
+li::marker{
+  color: #90c4da;
+}
+
+</style>
+
 <div id="container">
     <h1>aroceu's prompt generators: lexicon</h1>
 
