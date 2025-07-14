@@ -105,12 +105,18 @@ em{
 underline{
     color: #666;
     text-decoration: underline dotted;
+     -webkit-text-decoration-line: underline dotted;
+	-webkit-text-decoration-color: #666;
+    -webkit-text-decoration-style: dotted;
 }
 
 a:link, a:visited{
     color: #333;
     text-decoration: underline solid;
-}  
+    -webkit-text-decoration-line: underline solid;
+    -webkit-text-decoration-color: #333;
+    -webkit-text-decoration-style: solid;
+}
 
 a:hover, a:active{
     color: #fff;
