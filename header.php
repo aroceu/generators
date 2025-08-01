@@ -24,6 +24,8 @@
 
 <link rel="stylesheet" href="../generators/style2.css" type="text/css" media="screen">
 
+<link rel="alternate" type="application/rss+xml" title="network updates" href="https://kingdra.net/feed.xml" />
+
 </head>
 
 <body>
