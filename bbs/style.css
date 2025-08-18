@@ -8,6 +8,19 @@ body{
   min-height: 100%;
   color: #333;
         }
+
+        ::selection {
+            background: #a32339;
+            color: #fff;
+        }
+        ::-moz-selection {
+            background: #a32339;
+            color: #fff;
+        }
+        ::-webkit-selection {
+            background: #a32339;
+            color: #fff;
+        }
         
         #container{
             width: 45em;

@@ -47,7 +47,21 @@ $ts = array("the 1", "22", "Afterglow", "All Too Well", "All You Had to Do Was S
             font: normal 100%/150% 'Arsenal', sans-serif;
             color: #333;
         }
-        
+
+        ::selection {
+            background: #ffe4ec;
+            color: #974235;
+        }
+        ::-moz-selection {
+            background: #ffe4ec;
+            color: #974235;
+        }
+
+        ::-webkit-selection {
+            background: #ffe4ec;
+            color: #974235;
+        }
+
         #container{
             margin: 10vh auto;
             width: 50vw;

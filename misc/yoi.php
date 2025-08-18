@@ -36,6 +36,19 @@ background-repeat: no-repeat;
 		background-attachment: fixed;
 
             }
+
+            ::selection {
+                background: #A2BCD9;
+                color: #254270;
+            }
+            ::-moz-selection {
+                background: #A2BCD9;
+                color: #254270;
+            }
+            ::-webkit-selection {
+                background: #A2BCD9;
+                color: #254270;
+            }
         
             #container{
                 background: #fff;

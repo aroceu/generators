@@ -34,6 +34,19 @@
                 color: #ffffff;
             }
             
+            ::selection {
+                background: #C09B4F;
+                color: #fff;
+            }
+            ::-moz-selection {
+                background: #C09B4F;
+                color: #fff;
+            }
+            ::-webkit-selection {
+                background: #C09B4F;
+                color: #fff;
+            }
+
             #container{
                 width: 45em;
                 margin: 5em auto;

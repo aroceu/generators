@@ -8,7 +8,21 @@
           body{
             background: #c63e29;
             }
-        
+
+            ::selection {
+                background: #fff3e0;
+                color: #c63e29;
+            }
+            ::-moz-selection {
+                background: #fff3e0;
+                color: #c63e29;
+            }
+
+            ::-webkit-selection {
+                background: #fff3e0;
+                color: #c63e29;
+            }
+
             #container{
                 background: #fff;
                 padding: 1em;

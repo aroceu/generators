@@ -7,7 +7,21 @@
           body{
             background: #61d8ca;
             }
-        
+
+            ::selection {
+                background: #fffbe6;
+                color: #61d8ca;
+            }
+            ::-moz-selection {
+                background: #fffbe6;
+                color: #61d8ca;
+            }
+
+            ::-webkit-selection {
+                background: #fffbe6;
+                color: #61d8ca;
+            }
+
             #container{
                 background: #fff;
                 padding: 1em;

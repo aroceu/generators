@@ -7,6 +7,19 @@
           body{
             background: #000000;
             }
+
+            ::selection {
+                background: #9c3543;
+                color: #fff;
+            }
+            ::-moz-selection {
+                background: #9c3543;
+                color: #fff;
+            }
+            ::-webkit-selection {
+                background: #9c3543;
+                color: #fff;
+            }
         
             #container{
                 background: #fff;

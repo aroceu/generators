@@ -23,6 +23,19 @@
             body{
             background: url('img/wdiag.png') #fff;
             }
+
+            ::selection {
+                background: #ca4343;
+                color: #fff;
+            }
+            ::-moz-selection {
+                background: #ca4343;
+                color: #fff;
+            }
+            ::-webkit-selection {
+                background: #ca4343;
+                color: #fff;
+            }
             
             #generator{
             margin: 3em auto;

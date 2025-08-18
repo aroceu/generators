@@ -3177,7 +3177,21 @@ $sexytimes = array("Hurt/Comfort",
                 padding: 0;
                 color: #2a2a2a;
             }
-            
+
+            ::selection {
+                background: #ffe4e1;
+                color: #980000;
+            }
+            ::-moz-selection {
+                background: #ffe4e1;
+                color: #980000;
+            }
+
+            ::-webkit-selection {
+                background: #ffe4e1;
+                color: #980000;
+            }
+
             #top{
                 width: 100%;
                 margin: 0.5%;

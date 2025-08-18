@@ -47,7 +47,21 @@ $crj = array("All That", "Almost Said It", "Automatically in Love", "Beautiful",
             font: normal 100%/150% 'Arsenal', sans-serif;
             color: #333;
         }
-        
+
+        ::selection {
+            background: #ffe4fa;
+            color: #333;
+        }
+        ::-moz-selection {
+            background: #ffe4fa;
+            color: #333;
+        }
+
+        ::-webkit-selection {
+            background: #ffe4fa;
+            color: #333;
+        }
+
         #container{
             margin: 10vh auto;
             width: 50vw;

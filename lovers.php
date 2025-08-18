@@ -23,6 +23,19 @@
             body{
                 background: url('img/rdiag.png') #86001E;
             }
+
+            ::selection {
+                background: #FFD6E0;
+                color: #86001E;
+            }
+            ::-moz-selection {
+                background: #FFD6E0;
+                color: #86001E;
+            }
+            ::-webkit-selection {
+                background: #FFD6E0;
+                color: #86001E;
+            }
             
             #generator{
                 margin: 3em auto;

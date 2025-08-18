@@ -34,6 +34,19 @@
   background-repeat: no repeat;
         text-transform: lowercase;
     }
+
+    ::selection {
+        background: #a92148;
+        color: #CBC9B4;
+    }
+    ::-moz-selection {
+        background: #a92148;
+        color: #CBC9B4;
+    }
+    ::-webkit-selection {
+        background: #a92148;
+        color: #CBC9B4;
+    }
     
     #container{
         width: 50em;

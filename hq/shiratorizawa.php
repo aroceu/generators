@@ -6,7 +6,21 @@
           body{
             background: #9B5481;
             }
-        
+
+            ::selection {
+                background: #fff2f8;
+                color: #9B5481;
+            }
+            ::-moz-selection {
+                background: #fff2f8;
+                color: #9B5481;
+            }
+
+            ::-webkit-selection {
+                background: #fff2f8;
+                color: #9B5481;
+            }
+
             #container{
                 background: #fff;
                 padding: 1em;

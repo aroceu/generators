@@ -6,6 +6,21 @@ body{
     width: 100%;
 }
 
+::selection {
+  background: #c8e7f1;
+  color: #5C98B2;
+}
+
+::-moz-selection {
+  background: #c8e7f1;
+  color: #5C98B2;
+}
+
+::-webkit-selection {
+  background: #c8e7f1;
+  color: #5C98B2;
+}
+
 #head{
 	        padding-top: 4.5em;
     margin: 0 auto;

@@ -7,6 +7,19 @@ font: normal 100%/160% 'Source Code Pro', sans-serif;
         height: 100%;
 
             }
+
+            ::selection {
+                background: #333;
+                color: #fff;
+            }
+            ::-moz-selection {
+                background: #333;
+                color: #fff;
+            }
+            ::-webkit-selection {
+                background: #333;
+                color: #fff;
+            }
             
             #container{
                 padding: 2em;

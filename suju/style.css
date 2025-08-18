@@ -5,6 +5,20 @@
     box-sizing: border-box;
 }
 
+::selection {
+    background: #aac5ee;
+    color: #124188;
+}
+::-moz-selection {
+    background: #aac5ee;
+    color: #124188;
+}
+
+::-webkit-selection{
+    background: #aac5ee;
+    color: #124188;
+}
+
 body{
     background: #124188;
     border-bottom: 3em dotted #fff;

@@ -25,6 +25,19 @@
             padding: 0;
             background: #E9EBEE;
         }
+
+        ::selection {
+            background: #b3d1ff;
+            color: #233c72;
+        }
+        ::-moz-selection {
+            background: #b3d1ff;
+            color: #233c72;
+        }
+        ::-webkit-selection {
+            background: #b3d1ff;
+            color: #233c72;
+        }
         
         #header{
     background: #3B5998;

@@ -6,6 +6,19 @@
           body{
             background: #fff;
             }
+
+            ::selection {
+                background: #f49542;
+                color: #fff;
+            }
+            ::-moz-selection {
+                background: #f49542;
+                color: #fff;
+            }
+            ::-webkit-selection {
+                background: #f49542;
+                color: #fff;
+            }
         
             #container{
                 background: #000;

@@ -6,6 +6,21 @@ font: normal 100%/160% 'Arsenal', sans-serif;
         background-attachment: fixed;
 
             }
+
+            ::selection {
+                background: #819EAB;
+                color: #fff;
+            }
+
+            ::-moz-selection {
+                background: #819EAB;
+                color: #fff;
+            }
+
+            ::-webkit-selection {
+                background: #819EAB;
+                color: #fff;
+            }
             
             #container{
                 padding: 2em;

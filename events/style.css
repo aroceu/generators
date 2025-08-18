@@ -6,6 +6,20 @@
     box-sizing: border-box;
 }
 
+::selection {
+    background: #333;
+    color: #fff;
+}
+::-moz-selection {
+    background: #333;
+    color: #fff;
+}
+
+::-webkit-selection {
+    background: #333;
+    color: #fff;
+}
+
 body{
     background: #fff url('background.jpg') no-repeat center center fixed;
     background-size: cover;

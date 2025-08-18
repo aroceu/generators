@@ -8,6 +8,21 @@ font: normal 100%/160% 'Source Code Pro', sans-serif;
         height: 100%;
         margin-bottom: 10vh;
             }
+
+            ::selection {
+                background: #e0e0e0;
+                color: #333;
+            }
+
+            ::-moz-selection {
+                background: #e0e0e0;
+                color: #333;
+            }
+
+            ::-webkit-selection {
+                background: #e0e0e0;
+                color: #333;
+            }
             
             #container{
                 padding: 2em;

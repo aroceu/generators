@@ -28,7 +28,21 @@
             padding: 0;
             background: #7A778A;
         }
-        
+
+        ::selection {
+            background: #C7B7DD;
+            color: #5B4C55;
+        }
+        ::-moz-selection {
+            background: #C7B7DD;
+            color: #5B4C55;
+        }
+
+        ::-webkit-selection {
+            background: #C7B7DD;
+            color: #5B4C55;
+        }
+
         #header{
         font: normal 300% 'Bellefair';
         letter-spacing: 2px;

@@ -33,7 +33,21 @@
         text-transform: lowercase;
         height: 100%;
     }
-    
+
+    ::selection {
+        background: #FDEA33;
+        color: #E882BA;
+    }
+    ::-moz-selection {
+        background: #FDEA33;
+        color: #E882BA;
+    }
+
+    ::-webkit-selection {
+        background: #FDEA33;
+        color: #E882BA;
+    }
+
     #container{
         width: 45em;
         margin: 18vh auto 0;

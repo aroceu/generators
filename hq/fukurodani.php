@@ -5,7 +5,21 @@
           body{
             background: #fff;
             }
-        
+
+            ::selection {
+                background: #ffb600;
+                color: #fff;
+            }
+            ::-moz-selection {
+                background: #ffb600;
+                color: #fff;
+            }
+
+            ::-webkit-selection {
+                background: #ffb600;
+                color: #fff;
+            }
+
             #container{
                 background: #fff;
                 padding: 1em;

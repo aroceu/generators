@@ -31,6 +31,19 @@
         body{
             font: normal 100%/160% 'Press Start 2P', monospace;
         }
+
+        ::selection {
+            background: #ffeb3b;
+            color: #000;
+        }
+        ::-moz-selection {
+            background: #ffeb3b;
+            color: #000;
+        }
+        ::-webkit-selection {
+            background: #ffeb3b;
+            color: #000;
+        }
         
         #container{
             width: 70%;
