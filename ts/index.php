@@ -15,7 +15,7 @@
         <meta property="og:url" content="https://aroceu.com/generators" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="shortcut icon" type="image/x-icon" href="red.ico" />
+    <link rel="shortcut icon" type="image/x-icon" href="showgirl.ico" />
 
     
     <link rel="preconnect" href="https://fonts.gstatic.com">
