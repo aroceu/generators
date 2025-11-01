@@ -23,9 +23,14 @@
 
 <style type="text/css">
 
+    *{
+        box-sizing: border-box;
+        image-rendering: optimizeQuality;
+    }
+
     body{
-        background: #1A1E44;
-        background: url('taylor.jpg') no-repeat center center fixed; 
+        background: #ffcc7c;
+        background: url('taylor2.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -36,16 +41,16 @@
     }
 
     ::selection {
-        background: #a92148;
-        color: #CBC9B4;
+        background: #000;
+        color: #ffcc7c;
     }
     ::-moz-selection {
-        background: #a92148;
-        color: #CBC9B4;
+        background: #000;
+        color: #ffcc7c;
     }
     ::-webkit-selection {
-        background: #a92148;
-        color: #CBC9B4;
+        background: #000;
+        color: #ffcc7c;
     }
     
     #container{
@@ -56,17 +61,17 @@
     h1{
         font: normal 400% 'IM Fell English';
         text-align: center;
-        color: #CBC9B4;
-        text-transform: lowercase;
-        text-shadow: 0.06em 0.06em 0em #a92148;
-        margin: 0;
+color: #000;
+  text-transform: lowercase;
+  text-shadow: 0.06em 0.06em 0em #FFCC7C;
+  margin: 0;
     }
     
     #title{
         text-transform: lowercase;
         font: italic 200% 'IM Fell English';
-        background: #a92148;
-        color: #CBC9B4;
+        background: #000;
+        color: #fff;
         padding: 1.5em 1.5em 0.5em 1.5em;
         text-align: center;
         margin: 1em 0 0;
@@ -76,43 +81,46 @@
     #blurb{
         font: normal 100%/160% 'IM Fell English';
         text-align: left;
-        color: #a7ada1;
-        background: #7f2c44;
+        color: #fff;
+        background: #000;
         padding: 0.5em 1em;
     }
     
     input[type="button"]{
     font: normal 80% 'IM Fell English', sans-serif;
-    color: #a92148;
+    color: #000;
     text-transform: lowercase;
     text-align: center;
     border:none;
     display: block;
     padding: 0.5em;
-    background: #CBC9B4;
+    background: #ffcc7c;
     margin: 0;
 }
 
 input[type=button]:hover{
 cursor: pointer;
-background: #7f2c44;
-color: #CBC9B4;
+background: #000;
+color: #ffcc7c;
 }
 
 #footer{
     text-align: center;
     font: normal 120% 'IM Fell English';
-    color: #889983;
+    color: #000;
     padding: 1em;
-    background: #4d1222;
+    background: #ffc67c;
     opacity: 0.8;
 }
 
 a:link, a:visited{
    text-decoration: none;
    border-bottom: 1px dotted;
-   color: #a7ada1;
+   color: #000;
+}
 
+i{
+    color: #ffc67c;
 }
 
 a:hover, a:active{
@@ -124,7 +132,7 @@ a:hover, a:active{
 html {
 -webkit-text-size-adjust: none;
 font-size: 90%;
-background: url('taylor.jpg') no-repeat center center fixed;
+background: url('taylor2.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
