@@ -15,7 +15,8 @@
 
       <p>If you need to contact me for any reason, you can reach me via <a href="https://aroceu.com">any method of your choosing</a>.</p> 
 
-    <p><a href="https://github.com/aroceu/generators">View this project on Github</a>.</p>
+    <p><a href="https://github.com/aroceu/generators">View this project on Github</a>. <a href="https://donate.kingdra.net"><img src="https://kingdra.net/donate/badge.png" height="15" alt="donate 80x15" style="image-rendering: pixelated;"></a></p>
+
 
       <p class="home"><a href="/generators">&laquo; generator index</a></p>
     </div>
