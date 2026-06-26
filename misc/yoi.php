@@ -9,7 +9,11 @@
         
         <title>Yuri!!! on Ice Prompt Generator - Main Characters</title>
         <link rel="shortcut icon" type="image/x-icon" href="../favico.png" />
-       <meta name="robots" content="noai, noimageai">
+       	<meta name="robots" content="noindex, nofollow" />
+	<meta name="googlebot" content="noindex, nofollow" />
+	<meta name="noai" content="true" />
+	<meta name="noimageai" content="true" />
+	<meta name="robots" content="noai, noimageai">
         <meta name="description" content="Prompt generators originally made for fannish use, but may have other applications. These generators include some fandom-specific generators, the Sexy Times with Wangxian tag generator, a handful of lyric generators, kink generators, and other types of prompt generators I come up with whenever I feel like making them."/>
 
 		<meta charset="UTF-8">
